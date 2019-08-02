@@ -1,0 +1,2 @@
+# MyGit
+for studying
